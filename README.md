@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziona Agyemang</h1>
-<h3 align="center">A passionate aspiring UI/UX Designer</h3>
+<h3 align="center">A passionate UI/UX Designer</h3>
 
 - 🌱 I’m currently learning **Human Centered Computing and Frontend Development**
 
