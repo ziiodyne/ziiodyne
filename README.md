@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ziona Agyemang</h1>
 <h3 align="center">A passionate UI/UX Designer</h3>
 
-- 🌱 I’m currently learning **Human Centered Computing and Frontend Development**
+- 🌱 I’m currently learning **Design Prototyping and Frontend Development**
 
 - 👨‍💻 All of my projects are available at [https://ziona-agyemang.com](https://ziona-agyemang.com)
 
